@@ -1,3 +1,13 @@
+Load .env first
+ 
+// Health check route
+ 
+/ Log HTTP requests
+ 
+Parse JSON request body
+ 
+// Middlewares
+ 
 // Connect DB and start server
  
 // Middlewares
