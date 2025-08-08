@@ -1,2 +1,8 @@
+// Connect DB and start server
+ 
+// Middlewares
+ 
+ Exit process with failure
+ 
 // extracted text
  
