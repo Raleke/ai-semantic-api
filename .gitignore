@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+pnpm-lock.yaml
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# Temporary files
+tmp/
+temp/
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+
+# Docker files
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: VSCode settings
+.vscode/
